@@ -1,0 +1,35 @@
+1,Vila Nova,Goiás,3x0
+1,CRB,Avaí,2x1
+1,Coritiba,Chapecoense,1x1
+1,Operário,Paysandu,0x0
+1,Remo,Criciúma,1x2
+2,Vila Nova,CRB,2x0
+2,Goiás,Avaí,1x1
+2,Chapecoense,Operário,2x0
+2,Paysandu,Remo,1x0
+2,Criciúma,Coritiba,0x0
+3,Avaí,Vila Nova,0x2
+3,Goiás,CRB,2x2
+3,Coritiba,Paysandu,3x1
+3,Operário,Criciúma,1x1
+3,Remo,Chapecoense,2x1
+4,Vila Nova,Coritiba,1x0
+4,CRB,Operário,2x0
+4,Avaí,Remo,1x1
+4,Paysandu,Goiás,0x2
+4,Chapecoense,Criciúma,1x2
+5,Operário,Vila Nova,0x3
+5,Goiás,Coritiba,1x0
+5,CRB,Remo,1x1
+5,Criciúma,Avaí,2x0
+5,Chapecoense,Paysandu,2x2
+6,Vila Nova,Paysandu,4x1
+6,Coritiba,CRB,1x0
+6,Avaí,Chapecoense,1x0
+6,Remo,Goiás,0x1
+6,Criciúma,Operário,2x1
+7,Remo,Vila Nova,1x3
+7,Goiás,Chapecoense,2x0
+7,CRB,Paysandu,2x1
+7,Avaí,Operário,0x0
+7,Coritiba,Criciúma,1x2
